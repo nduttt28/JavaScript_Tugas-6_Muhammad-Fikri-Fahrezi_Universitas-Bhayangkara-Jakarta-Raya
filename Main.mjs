@@ -6,7 +6,7 @@ const main = () => {
   console.log("DATA AWAL:");
   index();
 
-  // TAMBAH 2 DATA (ARTIS)
+  // TAMBAH 
   store({
     nama: "Dian Sastrowardoyo",
     umur: 42,

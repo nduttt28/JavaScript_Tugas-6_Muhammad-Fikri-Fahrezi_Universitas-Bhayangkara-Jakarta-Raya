@@ -3,7 +3,7 @@ import users from "./Data.mjs";
 
 // TAMPILKAN DATA (map)
 const index = () => {
-  console.log("=== DAFTAR ARTIS ===");
+  console.log("=== DAFTAR NAMA ===");
 
   users.map((user, i) => {
     const { nama, umur, alamat, email } = user; // destructuring
